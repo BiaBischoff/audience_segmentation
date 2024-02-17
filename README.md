@@ -44,5 +44,8 @@ If we use the elbow method, we observe that the results of the k-means algorithm
 
 In this case, we’ll opt for the hierarchical clustering results and apply them in the k-means—i.e., perform k-means clustering with eight clusters and analyze the resulting clusters using a summary table.
 
+Finally, I opted for hierarchical clustering results because it can determine the number of clusters, whereas k-means doesn’t, and it’s up to us to choose them with such techniques as the elbow method.
+
+
 
 
