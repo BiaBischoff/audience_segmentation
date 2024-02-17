@@ -1,4 +1,4 @@
-# audience_segmentation (topics covered: data analysis, unsupervised learning, machine learning)
+# Audience Segmentation (topics covered: data analysis, unsupervised learning, machine learning)
 
 Exploring K-Means and Hierarchical Clustering for Effective Marketing Strategies
 
