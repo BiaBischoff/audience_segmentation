@@ -68,10 +68,17 @@ World - Rest of the world
 Based on that information, we can formulate the following clusters.
 
 Segment 0 – Instagram (289 Observations): These customers are from all regions, with a slightly larger group from the rest of the world. They discovered the platform through Instagram and have a relatively moderate level of engagement and expenditure.
+
 Segment 1 – LinkedIn (391 Observations): This segment consists entirely of customers from the rest of the world who have heard about your platform via LinkedIn. They have a high level of engagement but slightly lower spending.
+
 Segment 2 – Friends (424 Observations): This group primarily comprises customers from the rest of the world who discovered the platform through friends. They have high engagement and moderate spending.
+
 Segment 3 – Google-YouTube Mix (939 Observations): These customers from the rest of the world discovered the platform via a mix of Google and YouTube. They have very high engagement and moderate spending.
+
 Segment 4 – Anglo-Saxon Multi-Channel (1055 Observations): This segment includes customers from the US, Canada, The UK, and Australia who discovered the platform through a mix of Google, YouTube, and LinkedIn. They have high engagement and higher-than-average spending.
+
 Segment 5 – European Multi-Channel (372 Observations): These customers are from Western Europe and heard about the platform from various sources, including Google, YouTube, LinkedIn, and friends. They have high engagement and the highest spending level.
+
 Segment 6 – Twitter (58 Observations): This small group of customers discovered the platform via Twitter. They’re from all regions, with a majority from the rest of the world. They have the lowest engagement but moderate spending.
+
 Segment 7 – Facebook (306 Observations): This group mainly heard about the platform from Facebook. They are from all regions but predominantly from the rest of the world. They have the highest level of engagement and moderate spending.
