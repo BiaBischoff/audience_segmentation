@@ -32,13 +32,13 @@ Next, we want to create a scatter plot of the two numerical values in our data: 
 
 Hierarchical clustering: After the data standardization is complete, we can finally utilize the necessary clustering techniques, starting with hierarchical clustering. We’ll use Ward’s method for clustering.
 
-![hierarchical](https://github.com/BiaBischoff/audience_segmentation/assets/104466669/1417e479-239f-4906-a6f6-a373e191270d)
+![0a27787e-c3ea-4039-af47-aa9546772368](https://github.com/BiaBischoff/audience_segmentation/assets/104466669/a3bb281b-1077-44f9-8b5c-070e28168ceb)
 
 The results of the algorithm point to eight separate clusters. 
 
 K-means clustering: In this step we will implement the k-means algorithm. We perform an iteration with 10 steps, utilizing the k-means++ as the initializer. We've set the random state to 42…
 
-![line_chart](https://github.com/BiaBischoff/audience_segmentation/assets/104466669/80116159-13cf-4d8a-8c4e-f7f950ea3379)
+![2d9a6898-cd43-4098-9847-d3e8feeb6eb4](https://github.com/BiaBischoff/audience_segmentation/assets/104466669/614b0172-7041-40df-8a93-437b10be10a3)
 
 If we use the elbow method, we observe that the results of the k-means algorithm point to two, four, or nine different clusters. These results differ from the eight clusters found by the hierarchical clustering with the elbow method.
 
